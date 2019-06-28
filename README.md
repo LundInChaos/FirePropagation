@@ -6,6 +6,8 @@ to model a forest, inspired by the works of [Karafyllidis et al. 1997](https://d
 
 With a python script and a useful tkinter implementation of cellular automata.
 
+Cf. [*Report*](https://github.com/LundInChaos/FirePropagation/blob/master/FYST13_SP-MC.pdf) for more information.
+
 ## Developers
 
 S. Pissot & M. Coquet, University of Grenoble.
